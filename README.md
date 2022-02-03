@@ -1,4 +1,4 @@
-# Recon tool for bugbounty
+# subdomain scanning tool for bugbounty
 
 Requirement tools
 
